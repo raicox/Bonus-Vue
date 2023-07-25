@@ -4,7 +4,7 @@ Creación de Layaout usando 2 componentes para mejor visualización y orden del 
 
 ## Responsive
 
-Se toma como referencia las siguientes medidas: 
+Se toma como referencia `Unicamente` las siguientes medidas: 
 
 - Version Mobile (375x667)
 - Version Tablet (1180x820) 
