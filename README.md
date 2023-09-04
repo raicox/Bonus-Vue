@@ -1,16 +1,8 @@
-## Desarrollo Bonus 
+# React + Vite
 
-Creación de Layaout usando 2 componentes para mejor visualización y orden del proyecto, se usa CSS puro sin librerias.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Responsive
+Currently, two official plugins are available:
 
-Se toma como referencia `Unicamente` las siguientes medidas: 
-
-- Version Mobile (375x667)
-- Version Tablet (1180x820) 
-- Version desktop (1440x900)
-
-
-## API
-
-No se hace consumo de API por errores al momento de extraer los datos.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
